@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+	font-weight:normal;
+	color:#666666;
+}
+
+a
+	{
+		text-decoration:none; color:#5F4C1B;
+	}
+	
+a:hover
+		{
+			text-decoration:underline; color:#7D5935;
+		}
+		
+a.brown
+	{
+		text-decoration:none; color:#BF9F62;
+	}
+	
+a.brown:hover
+		{
+			text-decoration:underline; color:#BF9F62;
+		}
+
+
+.greenmain 
+	{
+		font-size:14px;
+		color:#85C226;
+	}
+.black
+	{
+		color:#000000;
+	}
+	
+a.detech
+	{
+		text-decoration:none; color:#FFFFFF;
+		}
+		
+a.detech:hover
+		{
+			text-decoration:underline;color:#FFFFFF;
+			}
+a.red:hover
+		{
+			text-decoration:underline;color:#FF0000;
+			}
+a.red
+		{
+			text-decoration:none;color:#FF0000;
+			}
+			
+.button {
+    position: fixed;
+    top: 0;
+    right: 0; 
+	//or left: 0; depending on where you want it to be.
+}
+
+
+
